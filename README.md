@@ -1,78 +1,113 @@
 # 👋 Hey, I'm Gundumi Sri Krishna Sudhindra
 
-🌍 Passionate Software Developer focused on building scalable tech solutions that create real social impact.  
-🚀 Currently working on impactful projects and constantly learning to push technology forward.
+🎓 B.Tech CSE Student | 👨‍💻 Full Stack & AI Developer | 🚀 Innovation-Driven Technologist  
+🌍 Vijayawada, India | 📧 srikrishnasudhindra@gmail.com  
 
 ---
 
 ## 💡 About Me
-- 🎓 Student | KL University  
-- 💼 Preparing for Software Engineering roles & hackathons  
-- 🌍 Strong believer that **technology should serve people**, not just markets  
-- 🧠 Problem-solver, builder, and community learner
+Tech enthusiast with a passion for experiential learning and meaningful innovation.  
+Strong leadership background, having organized campus drives and university-level events.  
+I love building scalable, socially responsible technology that solves real-world problems.
 
 ---
 
-## 🔥 Current Focus
-- 🚀 Building **AaharExpress** – A dual-platform combining **food delivery + food donation**, enabling people to donate meals directly to those in need while minimizing food waste.
-- 🗳️ Working on a **Biometric-Based Secure Voting System** with multi-layer authentication to prevent voter impersonation  
-  - 📝 Drafting a **Provisional Patent** for the system architecture & authentication framework
+## 🏆 Achievements & Patents
+### 🔐 Biometric-Based Secure Voting System
+- **Application No:** IN202541073801  
+- **Published:** Aug 2025 (Journal No. 34/2025)
+- Designed a multi-layer biometric authentication framework to eliminate voter impersonation and enhance election transparency.
+
+### 💸 DigiChit – Digital Chit Fund Management System
+- **Application No:** IN202541098116  
+- **Published:** Nov 2025 (Journal No. 46/2025)
+- MERN-based FinTech platform enabling secure digital chit fund operations, automated mandate processing, eKYC verification & fraud prevention.
+
+---
+
+## 🚀 Projects
+
+### 🧾 DigiChit (2025 – Present)
+- MERN-based digital chit fund management system
+- Automated mandate processing + Secure eKYC + Transparent fund flow
+- Patent published
+
+### 👁️ FaceAttend (2024 – Present)
+- Face recognition attendance system
+- Built using **FaceNet, OpenCV, TensorFlow, Flask**
+- Multi-layer authentication + Anti-spoofing
+- Real-time analytics dashboard
+
+### 🍽️ AaharExpress
+- Social impact platform combining **Food Delivery + Food Donation**
+- Aims to fight hunger & reduce food waste
+- Built with scalable system architecture in mind
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-- React • Vite • HTML • CSS • JavaScript
-- UI Design • Component Architecture
+### 🚀 Full Stack Development
+React • Node.js • Express.js • MongoDB • REST APIs • MERN  
+HTML • CSS • JavaScript • Vite
 
-### ⚙️ Backend
-- Java • Spring Boot • REST APIs
-- Authentication Systems
-- Backend Architecture & Modular Design
+### 🤖 AI / ML
+Python • OpenCV • Deep Learning • Machine Learning • TensorFlow
 
-### 🗄️ Databases
-- MySQL • PostgreSQL (learning)
+### ☁️ Cloud & DevOps
+AWS • Docker • Git • CI/CD
 
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- Eclipse • VS Code  
-- System Design & Architecture (learning)
+### 🧑‍💻 Programming Languages
+Java • C/C++ • JavaScript • Python
+
+---
+
+## 🎓 Education
+**K L E F Deemed To Be University** — B.Tech CSE  
+📊 GPA: **9.43 / 10**
+
+---
+
+## 🏅 Certifications
+AWS Cloud Practitioner  
+Microsoft Azure Developer Associate  
+MongoDB (DBA, Node.js Dev, Java Dev)  
+ServiceNow System Administrator  
+GitHub Foundations  
+Salesforce AI Associate  
+
+---
+
+## 🏆 Awards
+🏅 **Best Student Leader Award**  
+Recognized for leadership, coordination, and organizing major campus initiatives.
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React & performance concepts  
-- Spring Boot backend best practices  
-- Scalable system architecture & design principles  
+- Advanced React performance & optimization  
+- Spring Boot + scalable backend design  
+- Cloud-native architectures & deployment strategies  
 
 ---
 
 ## 🤝 Collaboration Interests
-✔️ Full-stack web development  
-✔️ Open-source contributions  
-✔️ Socially responsible tech solutions  
-✔️ Research + Patent oriented innovation
-
----
-
-## 🏆 Highlights
-- 🎯 Built multiple academic & real-world projects  
-- 🧾 Drafting **Provisional Patent** for Secure Voting System  
-- 🌍 Founder & Developer of **AaharExpress**, a social impact platform  
-- 🎯 Selected for multiple innovation challenges & tech competitions
+✔️ Web Development Projects  
+✔️ AI & Computer Vision Solutions  
+✔️ FinTech & Secure System Design  
+✔️ Social Impact Technology
 
 ---
 
 ## 📫 Connect With Me
-📧 Email: **srikrishnasudheendra@gmail.com**  
-💻 GitHub: **Gundumi-Sri-Krishna-Sudhindra**  
-🔗 LinkedIn: **Sri Krishna Sudhindra**  
+📧 Email: srikrishnasudhindra@gmail.com  
+🔗 LinkedIn: linkedin.com/in/sri-krishna-sudhindra  
+🌐 Portfolio: srikrishnasudhindra.me  
 
 ---
 
-## 💬 Fun Fact
-I truly believe **Food is a right, not a privilege** — and I’m building technology to make that belief a reality.
+## ⚡ Fun Thought
+Technology becomes meaningful when it serves people — and I’m working to build tech that does exactly that.
 
 ---
 ⭐ Feel free to explore my repositories, collaborate, or drop me a message!
