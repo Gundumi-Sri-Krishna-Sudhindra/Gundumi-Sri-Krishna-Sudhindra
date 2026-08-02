@@ -102,7 +102,7 @@ Recognized for leadership, coordination, and organizing major campus initiatives
 ## 📫 Connect With Me
 📧 Email: srikrishnasudhindra@gmail.com  
 🔗 LinkedIn: linkedin.com/in/sri-krishna-sudhindra  
-🌐 Portfolio: srikrishnasudhindra.me  
+🌐 Portfolio: srikrishnasudhindra.tech 
 
 ---
 
